@@ -1,3 +1,5 @@
+> **This repository is a copy of a project originally published by Madhav Meesala,** who is credited as the maintainer in this README. The MIT license in this repository is (c) 2024 Damilola Yinusa (see [LICENSE](LICENSE)). It is kept here for study and reference. All credit for the code and documentation belongs to the original author; it is not original work of this repository's owner.
+
 # Log Analysis and Anomaly Detection
 
 ## Project Description
